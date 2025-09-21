@@ -10,7 +10,6 @@ body {
   font-size: 18px;
   line-height: 1.16667;
   text-transform: uppercase;
-  color: var(--iris);
 }
 main-nav {
   font-weight: 500;
@@ -28,8 +27,10 @@ main-nav {
 .effective-solutions {
   background: #2e2f42;
   width: 100%;
+  width: 1440px;
+  height: 600px;
 }
-..effective-solutions-text {
+.effective-solutions-text {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
