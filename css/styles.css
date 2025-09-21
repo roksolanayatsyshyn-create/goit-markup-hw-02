@@ -51,16 +51,13 @@ body {
 
 .effective-solutions {
   background: #2e2f42;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  flex-direction: column;
+ 
 }}
-.effective-solutions-text {
+.effective-solutions-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
@@ -79,7 +76,7 @@ body {
 .button-order:focus {
   background-color: #404bbf;
 }
-principles-of-works-title{
+.principles-of-works-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -150,8 +147,8 @@ principles-of-works-title{
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17
-  letter-spacing:0.03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
