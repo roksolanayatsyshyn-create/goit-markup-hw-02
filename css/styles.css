@@ -21,19 +21,22 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #2e2f42;
+  text-decoration: none;
 }
 .main-nav .link:hover,
 .main-nav .link:focus {
   color: #404bbf;
+  outline: none;
 }
-.contacts .contacts-link {
+.contacts-link {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
 }
-.contacts .contacts-link:hover,
-.contacts .contacts-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
+  outline: none;
 }
 
 .effective-solutions {
