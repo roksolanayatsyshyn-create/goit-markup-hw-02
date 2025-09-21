@@ -35,6 +35,7 @@ body {
   align-items: center;
   text-align: center;
   justify-content: center;
+  flex-direction: column;
 }
 .effective-solutions-text {
   font-weight: 700;
