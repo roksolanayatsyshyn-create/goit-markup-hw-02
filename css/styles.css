@@ -26,10 +26,11 @@ font-size: 16px;
 line-height: 1.5;
 color: var(--slate);
 }
-width: 1440px;
-height: 600px;
+
 .effective-solutions{
     background-color: var(--navy-blue);
+    width: 1440px;
+height: 600px;
 }
 .effective-solutions-text{
     font-weight: 700;
@@ -39,6 +40,8 @@ text-align: center;
 color: var(--white);
 }
 .button{
+    
+    text-align: center;
     border-radius: 4px;
 padding-block: 16px;
 padding-inline: 32px;
