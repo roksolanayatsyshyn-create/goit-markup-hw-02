@@ -32,10 +32,10 @@ color: var(--slate);
     width: 1440px;
 height: 600px;
 }
-.effective-solutions-text{
+..effective-solutions-text {
     font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07143; 
 text-align: center;
 color: var(--white);
 }
