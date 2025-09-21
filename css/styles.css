@@ -26,13 +26,13 @@ body {
 .main-nav .link:focus {
   color: #404bbf;
 }
-.contacts {
+.contacts-link {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
 }
-.contacts:hover,
-.contacts:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
 }
 
