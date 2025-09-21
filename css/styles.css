@@ -25,7 +25,6 @@ main-nav {
 }
 
 .effective-solutions {
-  background: #2e2f42;
   width: 100%;
   width: 1440px;
   height: 600px;
@@ -113,7 +112,6 @@ main-nav {
   color: #434455;
 }
 .page-footer {
-  background: #2e2f42;
   width: 100%;
 }
 .page-footer > p {
